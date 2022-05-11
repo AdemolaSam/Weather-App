@@ -1,0 +1,47 @@
+body {
+    margin: auto 0;
+    padding: 0;
+    background-color: #001;
+}
+
+h1 {
+    text-align: center;
+    color: aqua;
+}
+
+h2 {
+    text-align: center;
+    color: antiquewhite;
+    font-family: sans-serif;
+}
+
+label {
+    color: blueviolet;
+    font-size: 18px;
+    font-family: fantasy;
+}
+
+input {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: cursive;
+    color: crimson;
+    background-color: azure;
+    border-radius: 10px;
+}
+
+div {
+    text-align: center
+}
+
+button {
+    font-family: fantasy;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: coral;
+    font-size: 20px;
+}
